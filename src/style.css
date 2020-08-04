@@ -7,7 +7,7 @@ body {
 }
 
 button {
-  background-color: #3ca4f3;
+  background-color: #db7093;
   border: none;
   border-radius: 10px;
   color: #ffffff;
@@ -19,7 +19,7 @@ button {
 }
 
 #converted {
-  border: 2px dotted #3ca4f3;
+  border: 2px dotted #db7093;
   border-radius: 25px;
   box-sizing: border-box;
   height: 100px;
@@ -51,9 +51,15 @@ h1 {
 }
 
 h2 {
-  color: #3ca4f3;
+  color: #db7093;
   font-weight: 700;
   text-decoration: underline;
+}
+
+i.fas,
+i.fa {
+  color: #db7093;
+  font-size: 100px;
 }
 
 img {
@@ -62,7 +68,7 @@ img {
 }
 
 input[type="textarea"] {
-  border: 3px solid #3ca4f3;
+  border: 3px solid #db7093;
   border-radius: 25px;
   box-sizing: border-box;
   height: 100px;
